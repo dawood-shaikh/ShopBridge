@@ -1,5 +1,5 @@
 
-# ${1:ShopBridge}
+## ShopBridge
 TODO: This is Shop Bridge web application using web api.this project has functionality to add,update and delete product as per requiremnet.
 ## Installation
 TODO: need to restore packages if unable download uploaded packages.
